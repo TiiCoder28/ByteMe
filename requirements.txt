@@ -3,3 +3,7 @@ python-dotenv
 pandas
 numpy
 psycopg2
+pymupdf
+fastapi
+uvicorn
+pypdf
